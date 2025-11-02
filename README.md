@@ -1,4 +1,4 @@
-WELCOME, I'm SHAIMAA
+WELCOME, I'M SHAIMAA
 
 <!--
 **shaimaa-khaled/shaimaa-khaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
